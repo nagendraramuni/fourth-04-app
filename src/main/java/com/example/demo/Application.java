@@ -11,6 +11,8 @@ public class Application {
 		
 		int i=10;
 		System.out.println(i);
+		
+		System.out.println("this is the ramuni");
 	}
 
 }
